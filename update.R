@@ -19,7 +19,6 @@ new_packages <- tibble::tribble(
                  "jermd",                "https://github.com/jemus42/jermd", NA,
                 "jemisc",               "https://github.com/jemus42/jemisc", NA,
                  "tRakt",                "https://github.com/jemus42/tRakt", NA,
-           "hugopkgmeta", "https://github.com/jemus42/hugo-rstats-pkg-meta", NA,
             "discordiar",           "https://github.com/jemus42/discordiar", NA,
              "speedrunr",            "https://github.com/jemus42/speedrunr", NA,
                "radarrr",              "https://github.com/jemus42/radarrr", NA,
