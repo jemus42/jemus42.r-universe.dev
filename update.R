@@ -19,10 +19,10 @@ new_packages <- tibble::tribble(
                  "jermd",                "https://github.com/jemus42/jermd", NA,
                 "jemisc",               "https://github.com/jemus42/jemisc", NA,
                  "tRakt",                "https://github.com/jemus42/tRakt", NA,
-            "discordiar",           "https://github.com/jemus42/discordiar", NA,
-             "speedrunr",            "https://github.com/jemus42/speedrunr", NA,
-               "radarrr",              "https://github.com/jemus42/radarrr", NA,
-             "attrakttv",            "https://github.com/jemus42/attrakttv", NA,
+#            "discordiar",           "https://github.com/jemus42/discordiar", NA,
+#             "speedrunr",            "https://github.com/jemus42/speedrunr", NA,
+#               "radarrr",              "https://github.com/jemus42/radarrr", NA,
+#             "attrakttv",            "https://github.com/jemus42/attrakttv", NA,
               "tauturri",             "https://github.com/jemus42/tauturri", NA
   )
 
