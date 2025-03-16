@@ -16,8 +16,8 @@ cli::cli_text("Assembling packages from tribble")
 new_packages <- tibble::tribble(
                 ~package,                                              ~url, ~subdir,
                  "poddr",                "https://github.com/jemus42/poddr", NA,
-                 "jermd",                "https://github.com/jemus42/jermd", NA,
-                "jemisc",               "https://github.com/jemus42/jemisc", NA,
+#                 "jermd",                "https://github.com/jemus42/jermd", NA,
+#                "jemisc",               "https://github.com/jemus42/jemisc", NA,
                  "tRakt",                "https://github.com/jemus42/tRakt", NA,
 #            "discordiar",           "https://github.com/jemus42/discordiar", NA,
 #             "speedrunr",            "https://github.com/jemus42/speedrunr", NA,
